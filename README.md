@@ -8,12 +8,6 @@
   <img src="assets/banner-vanessa.gif" alt="Hi, I'm Vanessa 👋 QA / Software Tester — Testing & Automation — Selenium | Postman | SQL">
 </p>
 
-
-<!--título-->
-<p align="center">
-  <img src="assets/hi_typing.svg" width="900" />
-</p>
-
 <!--sobre mí-->
 ## <img src="assets/catpink_item.gif" width="35" /> ¿Quién soy?
 
