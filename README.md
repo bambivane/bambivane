@@ -31,51 +31,7 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <br/>
 <br/>
 
-<!--habilidades técnicas-->
-<div align="center">
-  
-## <img src="assets/giulitechnical.gif" alt="Habilidades Técnicas" width="30" height="30" /> Habilidades Técnicas
-
-</div>
-
-</br>
-
-<p align="center">
-    &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=0E75B6">
-    &emsp;
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-050505?style=for-the-badge&logo=selenium&logoColor=0E75B6">
-    &emsp;
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=0E75B6">
-    &emsp;
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-050505?style=for-the-badge&logo=cypress&logoColor=0E75B6">
-</p>
-
-</br>
-
-<p align="center">
-    &emsp;
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=databricks&logoColor=0E75B6">
-    &emsp;
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql&logoColor=0E75B6">
-    &emsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=0E75B6">
-</p>
-
-</br>
-
-<p align="center">
-    &emsp;
-    <img alt="Jira" src="https://img.shields.io/badge/Jira-050505?style=for-the-badge&logo=jira&logoColor=0E75B6">
-    &emsp;
-    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-050505?style=for-the-badge&logo=azuredevops&logoColor=0E75B6">
-    &emsp;
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=0E75B6">
-    &emsp;
-    <img alt="VS Code" src="https://img.shields.io/badge/VS Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=0E75B6">
-</p>
-
-</br>
+NUBE
 
 <!--contacto-->
 <div align="center">
