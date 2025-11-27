@@ -56,7 +56,7 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=bambivane&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=bambivane&theme=transparent)
 
 ![](https://streak-stats.demolab.com?user=bambivane&theme=tokyonight&hide_border=false)
 
