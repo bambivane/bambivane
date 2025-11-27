@@ -50,26 +50,11 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <br/>
 
 <!--estadísticas github-->
-<div align="center">
-  
-## <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30" /> Actividad en GitHub
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bambivane&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bambivane&count_private=true&show_icons=true&theme=dark&bg_color=0,0E75B6,031B34&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=0E75B6" alt="GitHub Stats" />
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center">
-        <img align="center" src="https://streak-stats.demolab.com?user=bambivane&theme=dark&background=0,0E75B6,031B34&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=0E75B6" alt="Streak Stats" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 <!--frase inspiradora-->
 <div align="center">
