@@ -50,7 +50,6 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <br/>
 
 <!--estadísticas github-->
-<div align="center">
 
 # 📊 GitHub Stats
 
