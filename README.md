@@ -50,10 +50,22 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <br/>
 
 <!--estadísticas github-->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bambivane&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+# 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=bambivane&theme=radical&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
 
 
 <!--frase inspiradora-->
