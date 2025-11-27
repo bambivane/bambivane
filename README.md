@@ -1,6 +1,6 @@
 <!--contador de visitas-->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=0E75B6&style=for-the-badge&logo=star" alt="Visitas al perfil" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=bambivane&label=Visitas%20al%20perfil&color=0E75B6&style=for-the-badge&logo=star" alt="Visitas al perfil" style="padding-right:20px;" />
 </p>
 
 <!--banner-->
@@ -31,8 +31,6 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <br/>
 <br/>
 
-NUBE
-
 <!--contacto-->
 <div align="center">
   
@@ -45,8 +43,8 @@ NUBE
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Vanessa-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Vanessa" /></a>
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Gmail-Contactarme-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/vanessa-jorda/"><img src="https://img.shields.io/badge/LinkedIn-Vanessa-0E75B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Vanessa" /></a>
+<a href="mailto:vanessa.jorda@example.com"><img src="https://img.shields.io/badge/Gmail-Contactarme-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <br/>
@@ -62,12 +60,12 @@ NUBE
   <tr>
     <td width="50%">
       <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&theme=dark&bg_color=0,0E75B6,031B34&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=0E75B6" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bambivane&count_private=true&show_icons=true&theme=dark&bg_color=0,0E75B6,031B34&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=0E75B6" alt="GitHub Stats" />
       </p>
     </td>
     <td width="50%">
       <p align="center">
-        <img align="center" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&background=0,0E75B6,031B34&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=0E75B6" alt="Streak Stats" />
+        <img align="center" src="https://streak-stats.demolab.com?user=bambivane&theme=dark&background=0,0E75B6,031B34&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=0E75B6" alt="Streak Stats" />
       </p>
     </td>
   </tr>
@@ -91,23 +89,13 @@ NUBE
   
 **Hecho con <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Corazón" width="25" height="25" /> y mucho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Café" width="25" height="25" /> por Vane**
 
-[![⭐ a este repo](https://img.shields.io/badge/Dale%20una%20%E2%AD%90%20a%20este%20repo-black?style=for-the-badge)](https://github.com/TU_USUARIO/TU_USUARIO)
-[![Sígueme en GitHub](https://img.shields.io/badge/S%C3%ADgueme%20en%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![⭐ a este repo](https://img.shields.io/badge/Dale%20una%20%E2%AD%90%20a%20este%20repo-black?style=for-the-badge)](https://github.com/bambivane/bambivane)
+[![Sígueme en GitHub](https://img.shields.io/badge/S%C3%ADgueme%20en%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/bambivane)
 
 </div>
+
 ## Hi there 👋
 
 <!--
 **bambivane/bambivane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
