@@ -64,7 +64,7 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 
 <div align="center">
   
-## <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939](https://github-readme-stats.vercel.app/api?username=bambivane&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=tokyonight&hide_border=false&layout=compact" width="30" /> Actividad en GitHub
+![](https://github-readme-stats.vercel.app/api?username=bambivane&theme=transparent)
 
 </div>
 
