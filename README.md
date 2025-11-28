@@ -62,7 +62,26 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=tokyonight&hide_border=false&layout=compact)
 
+<div align="center">
+  
+## <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="30" /> Actividad en GitHub
 
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&theme=dark&bg_color=0,0E75B6,031B34&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=0E75B6" alt="GitHub Stats" />
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img align="center" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&background=0,0E75B6,031B34&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&border=0E75B6" alt="Streak Stats" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
