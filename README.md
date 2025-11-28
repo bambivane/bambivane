@@ -72,7 +72,7 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
   <tr>
     <td width="50%">
       <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&count_private=true&show_icons=true&theme=dark&bg_color=0,0E75B6,031B34&title_color=ffffff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=0E75B6" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambivane&theme=tokyonight&hide_border=false&layout=compact" />
       </p>
     </td>
     <td width="50%">
